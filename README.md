@@ -26,14 +26,6 @@
 
   In conclusion, Peach Tree Designs is not merely a team; it's a collective of passionate individuals driven by the shared goal of redefining creativity in the Minecraft community. Join us on this journey, and let's create something extraordinary together!
 </p>
-<p>
-  <h2>Want to know more about us?
-  Reach out to us through the following links!
-  </h2>
-</p>
-
-  [1]: https://peachtree-designs.com
-  [2]: https://discord.gg/N8cmspfErn
 <!---
 PeachTreeDesignsLLC/PeachTreeDesignsLLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
