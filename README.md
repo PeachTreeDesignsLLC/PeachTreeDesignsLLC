@@ -1,6 +1,4 @@
-
-
-![Untitled384_20240104145548](https://github.com/PeachTreeDesignsLLC/PeachTreeDesignsLLC/assets/157932144/85dc7003-3ee3-4d5c-9dbe-346adbf82c35)
+![Main Logo - 01](https://github.com/user-attachments/assets/4fc4702f-58a0-4a84-bfae-af3a0e4704ab)
 <h1 align="center">
   <img src= "https://github.com/PeachTreeDesignsLLC/PeachTreeDesignsLLC/assets/157932144/801cccd2-2571-4bfe-89b2-fe7dd1a935e6" width=48, height=48, align="center">
   Peach Tree Designs LLC
